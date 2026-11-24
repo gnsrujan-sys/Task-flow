@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Full-stack task, project, and productivity workspace for individuals and small teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
